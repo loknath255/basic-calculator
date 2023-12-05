@@ -1,0 +1,42 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.button{
+    padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  width: 66px;
+  background: #03283aa3;
+  color: aliceblue;
+  font-size: 22px;
+  
+  
+}
+
+.row{
+    margin: 8px 0;
+    
+}
+.row input{
+    margin: 0;
+    padding: 11px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 22px;
+    width: 292px;
+    background: #000000bf;
+    color: aliceblue;
+
+
+  }
+  .container{
+    border: 2px solid #092f2f;
+    background-color: rgba(8, 200, 200, 0.829);
+    border-radius: 15px;
+    width: 42   4px;
+    color: beige;
+    
+  }
